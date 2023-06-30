@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bievenidos al curso de Best Practices
+          Bievenidos al curso de Best Practices. Saludos!
         </a>
       </header>
     </div>
