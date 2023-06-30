@@ -15,6 +15,7 @@ function App() {
         >
           Bievenidos al curso de Best Practices. Saludos!
         </a>
+        <h1>Gracias!</h1>
       </header>
     </div>
   );
